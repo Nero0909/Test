@@ -7,5 +7,9 @@ namespace GitTest
 {
     class Class1
     {
+        public void Write()
+        {
+            Console.WriteLine("123");
+        }
     }
 }
