@@ -10,10 +10,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello word!");
-            Console.WriteLine("New world");
-            Console.WriteLine("Made in hotfix branch");
-            Console.WriteLine("");
-
+            Class1 class1 = new Class1();
+            class1.Write();
         }
     }
 }
