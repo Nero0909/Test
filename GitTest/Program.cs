@@ -12,7 +12,6 @@ namespace GitTest
             Console.WriteLine("Hello word!");
             Console.WriteLine("New world");
             Console.WriteLine("");
-            Console.ReadLine();
         }
     }
 }
