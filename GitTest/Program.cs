@@ -13,6 +13,7 @@ namespace GitTest
             Console.WriteLine("New world");
             Console.WriteLine("Made in hotfix branch");
             Console.WriteLine("");
+
         }
     }
 }
